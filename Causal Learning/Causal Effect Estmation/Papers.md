@@ -11,3 +11,6 @@
 - Treatment effect estimation with data-driven variable decomposition
 - GANITE_estimation_of_individualized_treatment_effects_using_generative_adversarial_nets
 - Learning weighted representations for generalization across designs
+- CounterFactual Regression with Importance Sampling Weights
+- counterfactual evaluation of treatment assignment functions with networked observational data
+- Learning Decomposed Representation for Counterfactual

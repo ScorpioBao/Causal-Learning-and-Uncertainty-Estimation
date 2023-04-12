@@ -1,0 +1,13 @@
+- Treatment Effect Estimation with Disentangled Latent Factors
+- The central role of the propensity score in observational studies for causal effects
+- Weighting regressions by proprnsity scores
+- Truncated importance  sampling
+- Integral Probability Measures
+- Learning-bounds-for-importance-weighting
+- An Introduction to Propensity Score Methods for Reducing the Effects of Confounding in Observational Studies
+- Stable weights that balance covariates for estimation with incomplete outcome data
+- Causal Effect Inference with Deep Latent Variable Models
+- Deep Counterfactual Networks with Propensity Dropout
+- Treatment effect estimation with data-driven variable decomposition
+- GANITE_estimation_of_individualized_treatment_effects_using_generative_adversarial_nets
+- Learning weighted representations for generalization across designs

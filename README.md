@@ -3,7 +3,7 @@
 ### 目录
 #### 一、论文
 - [因果推理](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning)
-	- 因果效应评估（Causal Effect Estimation）
+	- [因果效应评估（Causal Effect Estimation）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Effect%20Estmation))
 	- 因果发现（Causal Discovery）
 - [因果表征学习](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning)
 	- 分布外泛化（Out-of-Distribution Generalization）

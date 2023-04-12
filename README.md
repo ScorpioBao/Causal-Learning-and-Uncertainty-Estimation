@@ -20,11 +20,14 @@
 - [深度学习模型校准的相关工作]()
 - [代码和数据集](#二代码和数据集)
 - [博客](#三博客)
+	- 因果推理
+	- 不确定性估计
+	- 模型校准
 
 # 一、论文
-### 1 因果推理(相关论文可以通过目录中的链接访问)
-### 2 因果表征学习(相关论文可以通过目录中的链接访问)
-### 3不确定性估计
+### 1、 因果推理(相关论文可以通过目录中的链接访问)
+### 2、 因果表征学习(相关论文可以通过目录中的链接访问)
+### 3、不确定性估计
 #### （1）综述
 - Gawlikowski, J., Tassi, C. R. N., Ali, M., Lee, J., Humt, M., Feng, J., ... & Zhu, X. X. (2021). A survey of uncertainty in deep neural networks. _arXiv preprint arXiv:2107.03342_.
 - Zhou, T., Han, T., & Droguett, E. L. (2022). Towards trustworthy machine fault diagnosis: A probabilistic Bayesian deep learning framework. _Reliability Engineering & System Safety_, _224_, 108525.
@@ -79,11 +82,11 @@
 ## 二、代码和数据集
 相关论文的代码以及数据集可以在[Paper With Code ](https://paperswithcode.com/)搜索获取，如果Paper With Code 中没有收录，可直接在GitHub输入论文关键字搜索相关代码
 ## 三、博客
-##### - 因果推理
+##### 1、因果推理
 
-##### - 因果表征学习
+##### 2、因果表征学习
 
-##### - 不确定性估计
+##### 3、不确定性估计
 
 
 

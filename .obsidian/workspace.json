@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Causal Learning/Causal Effect Estmation/Papers.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 488.5
   },
   "right": {
     "id": "d0a3bc09e860c858",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Causal Learning/Causal Effect Estmation/Papers.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Causal Learning/Causal Effect Estmation/Papers.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Causal Learning/Causal Effect Estmation/Papers.md"
+                "file": "README.md"
               }
             }
           }
@@ -171,25 +171,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9ae9d446ed1796ba",
+  "active": "dca5d52571493251",
   "lastOpenFiles": [
-    "Causal Learning/Causal Effect Estmation/（2008截断重要性采样)Truncated importance  sampling.pdf",
-    "Causal Learning/Causal Effect Estmation/（2008IPW加权回归)Weighting regressions by proprnsity scores.pdf",
-    "Causal Learning/Causal Effect Estmation/（1983倾向得分Rubin）The central role of the propensity score in observational studies for causal effects.pdf",
-    "Causal Learning/Causal Effect Estmation/（2021TEDVAE）Treatment Effect Estimation with Disentangled Latent Factors.pdf",
-    "Causal Learning/Causal Effect Estmation/（2021 综述）2021-ACM KDD-A Survey on Causal Inference.pdf",
-    "Causal Learning/Causal Effect Estmation/（2021 张含望）Counterfactual VQA-A Cause-Effect Look at Language Bias.pdf",
-    "Causal Learning/Causal Effect Estmation/（2021 稳性学习)Deep Stable Learning for Out-Of-Distribution Generalization.pdf",
-    "Causal Learning/Causal Effect Estmation/（2020况琨三变量分解）Learning Decomposed Representation for Counterfactual.pdf",
-    "Causal Learning/Causal Effect Estmation/（2020分解）Learning disentangled representations for counterfactual regression.pdf",
-    "Causal Learning/Causal Effect Estmation/（2020 综述）A Survey of Learning Causality with Data Problems and Methods.pdf",
-    "Causal Learning/Causal Effect Estmation/（2019混杂选择原则)Principles of confounder selection.pdf",
-    "Causal Representation Learning/test.md",
+    "Causal Representation Learning/Stable Learning/Counterfactual Prediction for Bundle Treatment.pdf",
+    "Causal Representation Learning/Stable Learning/Stable Prediction across Unknown Environments Proceedings of the 24th ACM.pdf",
+    "Causal Representation Learning/Stable Learning/因果启发的稳定学习年度研究进展2021.11.05.pdf",
+    "Causal Representation Learning/Stable Learning/Stable Learning and its Causal Implication.pdf",
+    "Causal Representation Learning/Out-of-Distribution Generalization/Towards Domain Generalization in Object Detection.pdf",
+    "Causal Representation Learning/Stable Learning/Causally Regularized Learning with Agnostic Data Selection Bias.pdf",
+    "Causal Representation Learning/Out-of-Distribution Generalization/Uncertainty Modeling for Out-of-Distribution Generalization.pdf",
+    "Causal Representation Learning/Out-of-Distribution Generalization/A Theoretical Analysis on Independence-driven Importance Weighting for.pdf",
+    "Causal Representation Learning/Out-of-Distribution Generalization/Towards Out-Of-Distribution Generalization.pdf",
+    "Causal Representation Learning/Stable Learning/Heterogeneous Risk Minimization.pdf",
+    "Causal Representation Learning/Stable Learning/Stable learning establishes some common ground between causal inference and.pdf",
     "Causal Learning/Causal Discovery/Papers.md",
+    "README.md",
     "Causal Learning/Causal Effect Estmation/Papers.md",
+    "Causal Representation Learning/test.md",
     "Causal Learning/test.md",
     "Test.md",
-    "README.md",
     "Causal.md"
   ]
 }

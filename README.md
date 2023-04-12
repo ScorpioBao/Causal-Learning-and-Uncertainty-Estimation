@@ -4,10 +4,10 @@
 #### 一、论文
 - [因果推理](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning)
 	- [因果效应评估（Causal Effect Estimation）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Effect%20Estmation))
-	- 因果发现（Causal Discovery）
+	- [因果发现（Causal Discovery）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Discovery)
 - [因果表征学习](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning)
 	- 分布外泛化（Out-of-Distribution Generalization）
-	- 反事实生成（Counterfactual Genarative）
+	- 稳定学习（Stable Learning）
 - [不确定性估计](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Uncertainty%20Estimation)
 	- 贝叶斯方法（Bayesian）
 	- 集成方法（Ensemble）
@@ -20,7 +20,7 @@
 ### 一、论文
 相关论文可以通过目录中的链接访问
 ### 二、代码和数据集
-相关论文的代码以及数据集可以在[Paper With Code ](https://paperswithcode.com/)搜索获取，如果Paper With Code 中没有收集，可直接在GitHub输入论文关键字搜索相关代码
+相关论文的代码以及数据集可以在[Paper With Code ](https://paperswithcode.com/)搜索获取，如果Paper With Code 中没有收录，可直接在GitHub输入论文关键字搜索相关代码
 ### 三、博客
 ##### - 因果推理
 

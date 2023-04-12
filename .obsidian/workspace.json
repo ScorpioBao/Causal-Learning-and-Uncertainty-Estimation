@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -161,8 +161,11 @@
   },
   "active": "6e7d779675cb234d",
   "lastOpenFiles": [
-    "Causal Representation Learning/test.md",
+    "Causal Learning/Causal Effect Estmation/Causal Effect Inference with Deep Latent-Variable Models.pdf",
     "README.md",
+    "Causal Learning/Causal Discovery",
+    "Causal Learning/Causal Effect Estmation",
+    "Causal Representation Learning/test.md",
     "Causal Representation Learning",
     "Causal.md"
   ]

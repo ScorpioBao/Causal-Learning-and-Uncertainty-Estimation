@@ -20,7 +20,7 @@
 # 一、论文
 ### 1 因果推理(相关论文可以通过目录中的链接访问)
 ### 2 因果表征学习(相关论文可以通过目录中的链接访问)
-### 3不确定性估计
+### 3 不确定性估计
 #### （1）综述
 - Gawlikowski, J., Tassi, C. R. N., Ali, M., Lee, J., Humt, M., Feng, J., ... & Zhu, X. X. (2021). A survey of uncertainty in deep neural networks. _arXiv preprint arXiv:2107.03342_.
 - Zhou, T., Han, T., & Droguett, E. L. (2022). Towards trustworthy machine fault diagnosis: A probabilistic Bayesian deep learning framework. _Reliability Engineering & System Safety_, _224_, 108525.

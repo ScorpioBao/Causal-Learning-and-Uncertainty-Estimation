@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e7d779675cb234d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dca5d52571493251",
+  "active": "6e7d779675cb234d",
   "lastOpenFiles": [
+    "Causal Representation Learning/test.md",
+    "README.md",
     "Causal Representation Learning",
-    "Causal.md",
-    "README.md"
+    "Causal.md"
   ]
 }

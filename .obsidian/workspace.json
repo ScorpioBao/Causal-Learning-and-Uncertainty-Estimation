@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5eb16472130f8452",
+  "active": "dca5d52571493251",
   "lastOpenFiles": [
+    "Causal Representation Learning",
     "Causal.md",
     "README.md"
   ]

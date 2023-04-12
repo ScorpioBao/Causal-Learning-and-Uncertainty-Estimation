@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "419a81575bb6533c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,10 +171,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6e7d779675cb234d",
+  "active": "419a81575bb6533c",
   "lastOpenFiles": [
-    "Causal Learning/Causal Effect Estmation/Causal Effect Inference with Deep Latent-Variable Models.pdf",
+    "Test.md",
     "README.md",
+    "Causal Learning/Causal Effect Estmation/Causal Effect Inference with Deep Latent-Variable Models.pdf",
     "Causal Learning/Causal Discovery",
     "Causal Learning/Causal Effect Estmation",
     "Causal Representation Learning/test.md",

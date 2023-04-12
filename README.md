@@ -8,7 +8,7 @@
 2. [因果表征学习](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning)
 	- [2.1分布外泛化（Out-of-Distribution Generalization）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Out-of-Distribution%20Generalization)
 	- [2.2稳定学习（Stable Learning）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Stable%20Learning)
-3. [不确定性估计](#3不确定性估计)
+3. [不确定性估计](#（3）不确定性估计)
 	- 贝叶斯方法（Bayesian）
 	- 集成方法（Ensemble）
 	- 证据深度学习（Evidential Deep Learning)
@@ -20,7 +20,7 @@
 # 一、论文
 ### 1 因果推理(相关论文可以通过目录中的链接访问)
 ### 2 因果表征学习(相关论文可以通过目录中的链接访问)
-### 3 不确定性估计
+### （3）不确定性估计
 #### （1）综述
 - Gawlikowski, J., Tassi, C. R. N., Ali, M., Lee, J., Humt, M., Feng, J., ... & Zhu, X. X. (2021). A survey of uncertainty in deep neural networks. _arXiv preprint arXiv:2107.03342_.
 - Zhou, T., Han, T., & Droguett, E. L. (2022). Towards trustworthy machine fault diagnosis: A probabilistic Bayesian deep learning framework. _Reliability Engineering & System Safety_, _224_, 108525.

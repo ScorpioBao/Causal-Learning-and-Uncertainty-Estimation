@@ -34,6 +34,7 @@
 - Abdar, M., Pourpanah, F., Hussain, S., Rezazadegan, D., Liu, L., Ghavamzadeh, M., ... & Nahavandi, S. (2021). A review of uncertainty quantification in deep learning: Techniques, applications and challenges. _Information Fusion_, _76_, 243-297.
 - Uncertainty in Deep Learning（Gal博士论文）
 - He, W., & Jiang, Z. (2023). A Survey on Uncertainty Quantification Methods for Deep Neural Networks: An Uncertainty Source Perspective. _arXiv preprint arXiv:2302.13425_.
+- Hüllermeier, E., & Waegeman, W. (2021). Aleatoric and epistemic uncertainty in machine learning: An introduction to concepts and methods. _Machine Learning_, _110_, 457-506.（数据和模型不确定性）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （2）贝叶斯方法：
@@ -57,6 +58,7 @@
 #### （1）分割
 - Kwon, Y., Won, J. H., Kim, B. J., & Paik, M. C. (2020). Uncertainty quantification using Bayesian neural networks in classification: Application to biomedical image segmentation. _Computational Statistics & Data Analysis_, _142_, 106816.（贝叶斯不确定性）
 - Li, H., Nan, Y., Del Ser, J., & Yang, G. (2022). Region-based evidential deep learning to quantify uncertainty and improve robustness of brain tumor segmentation. _Neural Computing and Applications_, 1-15.（证据不确定性）
+- Zou, K., Yuan, X., Shen, X., Chen, Y., Wang, M., Goh, R. S. M., ... & Fu, H. (2023). EvidenceCap: Towards trustworthy medical image segmentation via evidential identity cap. _arXiv preprint arXiv:2301.00349_.（证据不确定性）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （2）开集识别
@@ -73,11 +75,6 @@
 - Ma, H., Han, Z., Zhang, C., Fu, H., Zhou, J. T., & Hu, Q. (2021). Trustworthy multimodal regression with mixture of normal-inverse gamma distributions. _Advances in Neural Information Processing Systems_, _34_, 6881-6893.（证据多模态回归）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
-
-
-
-
-
 
 ## 二、代码和数据集
 相关论文的代码以及数据集可以在[Paper With Code ](https://paperswithcode.com/)搜索获取，如果Paper With Code 中没有收录，可直接在GitHub输入论文关键字搜索相关代码

@@ -15,8 +15,8 @@
 	- 证据深度学习（Evidential Deep Learning)
 4. [ 不确定性估计在不同领域的应用](#4不确定性估计在不同领域的应用)
 5. 深度学习模型校准的相关工作
-#### 二、[代码和数据集](#二、代码和数据集)
-#### 三、[博客](#三、博客)
+#### 二、[代码和数据集](#二代码和数据集)
+#### 三、[博客](#三博客)
 
 # 一、论文
 ## 一、表面缺陷检测关键问题
@@ -29,36 +29,44 @@
 - Abdar, M., Pourpanah, F., Hussain, S., Rezazadegan, D., Liu, L., Ghavamzadeh, M., ... & Nahavandi, S. (2021). A review of uncertainty quantification in deep learning: Techniques, applications and challenges. _Information Fusion_, _76_, 243-297.
 - Uncertainty in Deep Learning（Gal博士论文）
 - He, W., & Jiang, Z. (2023). A Survey on Uncertainty Quantification Methods for Deep Neural Networks: An Uncertainty Source Perspective. _arXiv preprint arXiv:2302.13425_.
+
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （2）贝叶斯方法：
 - Gal, Y., & Ghahramani, Z. (2016, June). Dropout as a bayesian approximation: Representing model uncertainty in deep learning. In _international conference on machine learning_ (pp. 1050-1059). PMLR.（将Dropout看做贝叶斯近似的经典论文）
 - Harakeh, A., Smart, M., & Waslander, S. L. (2020, May). Bayesod: A bayesian approach for uncertainty estimation in deep object detectors. In _2020 IEEE International Conference on Robotics and Automation (ICRA)_ (pp. 87-93). IEEE.（目标检测中的贝叶斯不确定性估计）
 - Kendall, A., & Gal, Y. (2017). What uncertainties do we need in bayesian deep learning for computer vision?. _Advances in neural information processing systems_, _30_.（不确定性估计必读论文，将不确定性分为数据不确定性以及模型不确定性，并介绍了在分类和回归中不确定性估计的建模方法）
 - Louizos, C., & Welling, M. (2017, July). Multiplicative normalizing flows for variational bayesian neural networks. In _International Conference on Machine Learning_ (pp. 2218-2227). PMLR.（变分贝叶斯神经网络，EDL论文中的对比方法）
+
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （3）集成方法
 - Lakshminarayanan, B., Pritzel, A., & Blundell, C. (2017). Simple and scalable predictive uncertainty estimation using deep ensembles. _Advances in neural information processing systems_, _30_.（集成方法的开山之作）
+
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （4）证据深度学习
 - Sensoy, M., Kaplan, L., & Kandemir, M. (2018). Evidential deep learning to quantify classification uncertainty. _Advances in neural information processing systems_, _31_.（证据分类）
 - Amini, A., Schwarting, W., Soleimany, A., & Rus, D. (2020). Deep evidential regression. _Advances in Neural Information Processing Systems_, _33_, 14927-14937.（证据回归）
 - Ulmer, D. (2021). A survey on evidential deep learning for single-pass uncertainty estimation. _arXiv preprint arXiv:2110.03051_.（综述）
+
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 ### 4、不确定性估计在不同领域的应用
 #### （1）分割
 - Kwon, Y., Won, J. H., Kim, B. J., & Paik, M. C. (2020). Uncertainty quantification using Bayesian neural networks in classification: Application to biomedical image segmentation. _Computational Statistics & Data Analysis_, _142_, 106816.（贝叶斯不确定性）
 - Li, H., Nan, Y., Del Ser, J., & Yang, G. (2022). Region-based evidential deep learning to quantify uncertainty and improve robustness of brain tumor segmentation. _Neural Computing and Applications_, 1-15.（证据不确定性）
+
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （2）开集识别
 - Bao, W., Yu, Q., & Kong, Y. (2021). Evidential deep learning for open set action recognition. In _Proceedings of the IEEE/CVF International Conference on Computer Vision_ (pp. 13349-13358).（开集识别）
 - Corbière, C., Lafon, M., Thome, N., Cord, M., & Pérez, P. (2021, September). Beyond First-Order Uncertainty Estimation with Evidential Models for Open-World Recognition. In _ICML 2021 Workshop on Uncertainty and Robustness in Deep Learning_.（正则化项）
+
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （3）域自适应
 - Chen, L., Lou, Y., He, J., Bai, T., & Deng, M. (2022, June). Evidential neighborhood contrastive learning for universal domain adaptation. In _Proceedings of the AAAI Conference on Artificial Intelligence_ (Vol. 36, No. 6, pp. 6258-6267).
+
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （4）多视图学习
 - Han, Z., Zhang, C., Fu, H., & Zhou, J. T. (2022). Trusted multi-view classification with dynamic evidential fusion. _IEEE transactions on pattern analysis and machine intelligence_.（证据多视图分类）
 - Ma, H., Han, Z., Zhang, C., Fu, H., Zhou, J. T., & Hu, Q. (2021). Trustworthy multimodal regression with mixture of normal-inverse gamma distributions. _Advances in Neural Information Processing Systems_, _34_, 6881-6893.（证据多模态回归）
+
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 
 

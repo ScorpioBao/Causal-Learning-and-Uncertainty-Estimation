@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Causal Learning/Causal Effect Estmation/Papers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ae9d446ed1796ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,8 +159,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9ae9d446ed1796ba",
+  "active": "8cf11f210b50e0ee",
   "lastOpenFiles": [
+    "Causal Learning/Causal Effect Estmation/Papers.md",
+    "README.md",
     "Uncertainty Estimation/Evidential Deep Learning",
     "Uncertainty Estimation/Ensemble",
     "Uncertainty Estimation/Bayesian/未命名",
@@ -183,10 +173,7 @@
     "Causal Representation Learning/Stable Learning/Stable Learning and its Causal Implication.pdf",
     "Causal Representation Learning/Out-of-Distribution Generalization/Towards Domain Generalization in Object Detection.pdf",
     "Causal Representation Learning/Stable Learning/Causally Regularized Learning with Agnostic Data Selection Bias.pdf",
-    "Causal Representation Learning/Out-of-Distribution Generalization/Uncertainty Modeling for Out-of-Distribution Generalization.pdf",
     "Causal Learning/Causal Discovery/Papers.md",
-    "README.md",
-    "Causal Learning/Causal Effect Estmation/Papers.md",
     "Causal Representation Learning/test.md",
     "Causal Learning/test.md",
     "Test.md",

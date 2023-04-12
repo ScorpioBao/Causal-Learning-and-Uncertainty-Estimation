@@ -18,14 +18,14 @@
 #### 三、[博客](#三、博客)
 
 # 一、论文
-## 1、因果推理(相关论文可以通过目录中的链接访问)
-## 2、因果表征学习(相关论文可以通过目录中的链接访问)
-## 3、不确定性估计
-### 贝叶斯方法：
+### 1、因果推理(相关论文可以通过目录中的链接访问)
+### 2、因果表征学习(相关论文可以通过目录中的链接访问)
+### 3、不确定性估计
+#### 贝叶斯方法：
 - Gal, Y., & Ghahramani, Z. (2016, June). Dropout as a bayesian approximation: Representing model uncertainty in deep learning. In _international conference on machine learning_ (pp. 1050-1059). PMLR.（将Dropout看做贝叶斯近似的经典论文）
 
-### 集成方法
-### 证据深度学习
+#### 集成方法
+#### 证据深度学习
 
 
 

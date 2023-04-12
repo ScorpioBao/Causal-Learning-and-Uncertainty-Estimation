@@ -6,8 +6,8 @@
 	- [因果效应评估（Causal Effect Estimation）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Effect%20Estmation))
 	- [因果发现（Causal Discovery）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Discovery)
 - [因果表征学习](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning)
-	- 分布外泛化（Out-of-Distribution Generalization）
-	- 稳定学习（Stable Learning）
+	- [分布外泛化（Out-of-Distribution Generalization）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Out-of-Distribution%20Generalization)
+	- [稳定学习（Stable Learning）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Stable%20Learning)
 - [不确定性估计](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Uncertainty%20Estimation)
 	- 贝叶斯方法（Bayesian）
 	- 集成方法（Ensemble）

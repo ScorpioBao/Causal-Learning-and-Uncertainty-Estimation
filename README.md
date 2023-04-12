@@ -2,24 +2,22 @@
 该站点用于整理本人研究生期间相关研究方向的学习资源，包括论文、代码、数据集和博客等学习资源等。
 # 目录
 #### 一、论文
-- [表面缺陷检测关键问题](#一表面缺陷检测关键问题)
-1. [因果推理](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning)
-	- [1.1因果效应评估（Causal Effect Estimation）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Effect%20Estmation))
-	- [1.2因果发现（Causal Discovery）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Discovery)
-2. [因果表征学习](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning)
-	- [2.1分布外泛化（Out-of-Distribution Generalization）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Out-of-Distribution%20Generalization)
-	- [2.2稳定学习（Stable Learning）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Stable%20Learning)
-3. [不确定性估计](#3不确定性估计)
+- [因果推理](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning)
+	- [因果效应评估（Causal Effect Estimation）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Effect%20Estmation))
+	- [因果发现（Causal Discovery）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Discovery)
+- [因果表征学习](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning)
+	- [分布外泛化（Out-of-Distribution Generalization）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Out-of-Distribution%20Generalization)
+	- [稳定学习（Stable Learning）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Stable%20Learning)
+-  [不确定性估计](#3不确定性估计)
 	- 贝叶斯方法（Bayesian）
 	- 集成方法（Ensemble）
 	- 证据深度学习（Evidential Deep Learning)
-4. [ 不确定性估计在不同领域的应用](#4不确定性估计在不同领域的应用)
-5. 深度学习模型校准的相关工作
+- [ 不确定性估计在不同领域的应用](#4不确定性估计在不同领域的应用)
+- [深度学习模型校准的相关工作]()
 - [代码和数据集](#二代码和数据集)
 - [博客](#三博客)
 
 # 一、论文
-## 一、表面缺陷检测关键问题
 ### 1 因果推理(相关论文可以通过目录中的链接访问)
 ### 2 因果表征学习(相关论文可以通过目录中的链接访问)
 ### 3不确定性估计

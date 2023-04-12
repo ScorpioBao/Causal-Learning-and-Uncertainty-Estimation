@@ -171,8 +171,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dca5d52571493251",
+  "active": "9ae9d446ed1796ba",
   "lastOpenFiles": [
+    "Uncertainty Estimation/Evidential Deep Learning",
+    "Uncertainty Estimation/Ensemble",
+    "Uncertainty Estimation/Bayesian/未命名",
+    "Uncertainty Estimation/Bayesian",
     "Causal Representation Learning/Stable Learning/Counterfactual Prediction for Bundle Treatment.pdf",
     "Causal Representation Learning/Stable Learning/Stable Prediction across Unknown Environments Proceedings of the 24th ACM.pdf",
     "Causal Representation Learning/Stable Learning/因果启发的稳定学习年度研究进展2021.11.05.pdf",
@@ -180,10 +184,6 @@
     "Causal Representation Learning/Out-of-Distribution Generalization/Towards Domain Generalization in Object Detection.pdf",
     "Causal Representation Learning/Stable Learning/Causally Regularized Learning with Agnostic Data Selection Bias.pdf",
     "Causal Representation Learning/Out-of-Distribution Generalization/Uncertainty Modeling for Out-of-Distribution Generalization.pdf",
-    "Causal Representation Learning/Out-of-Distribution Generalization/A Theoretical Analysis on Independence-driven Importance Weighting for.pdf",
-    "Causal Representation Learning/Out-of-Distribution Generalization/Towards Out-Of-Distribution Generalization.pdf",
-    "Causal Representation Learning/Stable Learning/Heterogeneous Risk Minimization.pdf",
-    "Causal Representation Learning/Stable Learning/Stable learning establishes some common ground between causal inference and.pdf",
     "Causal Learning/Causal Discovery/Papers.md",
     "README.md",
     "Causal Learning/Causal Effect Estmation/Papers.md",

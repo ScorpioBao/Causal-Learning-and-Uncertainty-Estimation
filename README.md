@@ -17,8 +17,21 @@
 #### 二、[代码和数据集](#二、代码和数据集)
 #### 三、[博客](#三、博客)
 
-### 一、论文
-相关论文可以通过目录中的链接访问
+# 一、论文
+## 1、因果推理(相关论文可以通过目录中的链接访问)
+## 2、因果表征学习(相关论文可以通过目录中的链接访问)
+## 3、不确定性估计
+### 贝叶斯方法：
+- Gal, Y., & Ghahramani, Z. (2016, June). Dropout as a bayesian approximation: Representing model uncertainty in deep learning. In _international conference on machine learning_ (pp. 1050-1059). PMLR.（将Dropout看做贝叶斯近似的经典论文）
+
+### 集成方法
+### 证据深度学习
+
+
+
+
+
+
 ### 二、代码和数据集
 相关论文的代码以及数据集可以在[Paper With Code ](https://paperswithcode.com/)搜索获取，如果Paper With Code 中没有收录，可直接在GitHub输入论文关键字搜索相关代码
 ### 三、博客

@@ -26,7 +26,7 @@
 - [博客](#三博客)
 	- [因果推理](#1因果推理)
 	- [不确定性估计](#2不确定性估计)
-
+- [交流](#4交流)
 # 一、论文
 ### 1、 因果推理(相关论文可以通过目录中的链接访问)
 ### 2、 因果表征学习
@@ -133,10 +133,29 @@
 相关论文的代码以及数据集可以在[Paper With Code ](https://paperswithcode.com/)搜索获取，如果Paper With Code 中没有收录，可直接在GitHub输入论文关键字搜索相关代码
 ## 三、博客
 ##### 1、因果推理
+- [e-CARE: 可解释的因果推理评测 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650805534&idx=1&sn=ecf1c78e642f46daa10c1217c3bd320d&chksm=8cb880f5bbcf09e3d060f3b96fb24c42ee60c52a1b10914e3af637e8f07c9c88c5ca6f02d17a#rd)
+- [【Valse - 崔鹏】Out-of-Distribution 分布外泛化 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/419346109)
+- [崔鹏团队：万字长文梳理「稳定学习」全景图 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/535602186)
+- [【综述】离群/异常/新类检测？开集识别？分布外检测？一文搞懂其间异同！ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/426521773)
+-  [因果表征学习最新综述：连接因果科学和机器学习的桥梁 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/355009051)
+- [因果推断：因果表征学习的CV落地 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/400043237)
 
-##### 2、因果表征学习
 
 
+##### 2、不确定性估计
+- [ What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? ](https://blog.csdn.net/weixin_39779106/article/details/78968982#1%E5%B0%86%E5%BC%82%E6%96%B9%E5%B7%AE%E5%81%B6%E7%84%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%92%8C%E8%AE%A4%E7%9F%A5%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9B%B8%E7%BB%93%E5%90%88](https://blog.csdn.net/weixin_39779106/article/details/78968982#1%E5%B0%86%E5%BC%82%E6%96%B9%E5%B7%AE%E5%81%B6%E7%84%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%92%8C%E8%AE%A4%E7%9F%A5%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9B%B8%E7%BB%93%E5%90%88)
+- [Bayesian inference problem, MCMC and variational inference | by Joseph Rocca | Towards Data Science](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
+- [Uncertainty Estimation in CV - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/166617220)
+- [What my deep model doesn't know... | Yarin Gal - Blog | Oxford Machine Learning](http://www.cs.ox.ac.uk/people/yarin.gal/website/blog_3d801aa532c1ce.html)
+- [Uncertainty in Deep Learning. How To Measure? | Towards Data Science](https://towardsdatascience.com/my-deep-learning-model-says-sorry-i-dont-know-the-answer-that-s-absolutely-ok-50ffa562cb0b)
+- https://www.bilibili.com/video/BV1RJ411D7QA/
+- [如何创造可信任的机器学习模型？先要理解不确定性 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650755237&idx=3&sn=55beb3edcef0bb4ded4b56e1379efbda&chksm=871a94dbb06d1dcddc49272f77899561c0da5760f2dc6cfebd3877272a959e01c69105a8bac2#rd)
+- [从最大似然到EM算法：一致的理解方式 - 科学空间|Scientific Spaces (kexue.fm)](https://kexue.fm/archives/5239)
+- [ICML高引模型校准论文，一个好的工作是怎样的 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/323959089)
+
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
+## 四、交流
+- Email: senlinbao@gmail.com
 
 
 

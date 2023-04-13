@@ -21,12 +21,11 @@
 	- [开集识别](#3开集识别)
 	- [分布外泛化](#4分布外泛化)
 	- [多视图学习](#5多视图学习)
-- [深度学习模型校准的相关工作]()
+- [深度学习模型校准的相关工作](#5深度学习模型校准的相关工作)
 - [代码和数据集](#二代码和数据集)
 - [博客](#三博客)
-	- 因果推理
-	- 不确定性估计
-	- 模型校准
+	- [因果推理](#1因果推理)
+	- [不确定性估计](#2不确定性估计)
 
 # 一、论文
 ### 1、 因果推理(相关论文可以通过目录中的链接访问)
@@ -97,7 +96,7 @@
 - Harakeh, A., Smart, M., & Waslander, S. L. (2020, May). Bayesod: A bayesian approach for uncertainty estimation in deep object detectors. In _2020 IEEE International Conference on Robotics and Automation (ICRA)_ (pp. 87-93). IEEE.（目标检测中的贝叶斯不确定性估计）
 - Feng, D., Harakeh, A., Waslander, S. L., & Dietmayer, K. (2021). A review and comparative study on probabilistic object detection in autonomous driving. _IEEE Transactions on Intelligent Transportation Systems_, _23_(8), 9961-9980.（自动驾驶中的概率目标检测）
 - Hang, Q., Li, Z., Dong, Y., & Yue, X. (2022, November). Uncertainty-Aware Deep Open-Set Object Detection. In _Rough Sets: International Joint Conference, IJCRS 2022, Suzhou, China, November 11–14, 2022, Proceedings_ (pp. 161-175). Cham: Springer Nature Switzerland.（证据目标检测）
-- - Miller, D. (2021). _Epistemic uncertainty estimation for object detection in open-set conditions_ (Doctoral dissertation, Queensland University of Technology).（开集目标检测）
+- Miller, D. (2021). _Epistemic uncertainty estimation for object detection in open-set conditions_ (Doctoral dissertation, Queensland University of Technology).（开集目标检测）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （3）开集识别
@@ -105,7 +104,7 @@
 - Corbière, C., Lafon, M., Thome, N., Cord, M., & Pérez, P. (2021, September). Beyond First-Order Uncertainty Estimation with Evidential Models for Open-World Recognition. In _ICML 2021 Workshop on Uncertainty and Robustness in Deep Learning_.（正则化项）
 - Corbière, C., Lafon, M., Thome, N., Cord, M., & Pérez, P. (2021, September). Beyond First-Order Uncertainty Estimation with Evidential Models for Open-World Recognition. In _ICML 2021 Workshop on Uncertainty and Robustness in Deep Learning_.（证据用于开放世界识别）
 - Mundt, M., Pliushch, I., Majumder, S., & Ramesh, V. (2019). Open set recognition through deep neural network uncertainty: Does out-of-distribution detection require generative classifiers?. In _Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops_.（OOD检测）
-- - Zhou, T., Han, T., & Droguett, E. L. (2022). Towards trustworthy machine fault diagnosis: A probabilistic Bayesian deep learning framework. _Reliability Engineering & System Safety_, _224_, 108525.（贝叶斯故障诊断）
+- Zhou, T., Han, T., & Droguett, E. L. (2022). Towards trustworthy machine fault diagnosis: A probabilistic Bayesian deep learning framework. _Reliability Engineering & System Safety_, _224_, 108525.（贝叶斯故障诊断）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （4）分布外泛化
@@ -121,6 +120,14 @@
 - Geng, Y., Han, Z., Zhang, C., & Hu, Q. (2021, May). Uncertainty-aware multi-view representation learning. In _Proceedings of the AAAI Conference on Artificial Intelligence_ (Vol. 35, No. 9, pp. 7545-7553).（多视图回归-数据不确定性建模）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
+### 5、深度学习模型校准的相关工作
+- **Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. (2017, July). On calibration of modern neural networks. In _International conference on machine learning_ (pp. 1321-1330). PMLR.（分类校准）**
+- **Kuleshov, V., Fenner, N., & Ermon, S. (2018, July). Accurate uncertainties for deep learning using calibrated regression. In _International conference on machine learning_ (pp. 2796-2804). PMLR.（回归校准）**
+- Mukhoti, J., Kulharia, V., Sanyal, A., Golodetz, S., Torr, P., & Dokania, P. (2020). Calibrating deep neural networks using focal loss. _Advances in Neural Information Processing Systems_, _33_, 15288-15299.（Focal Loss 校准分类）
+- Krishnan, R., & Tickoo, O. (2020). Improving model calibration with accuracy versus uncertainty optimization. _Advances in Neural Information Processing Systems_, _33_, 18237-18248.（考虑不确定性校准模型）
+- Thulasidasan, S., Chennupati, G., Bilmes, J. A., Bhattacharya, T., & Michalak, S. (2019). On mixup training: Improved calibration and predictive uncertainty for deep neural networks. _Advances in Neural Information Processing Systems_, _32_.（mixup提高模型校准性能）
+
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
 
 ## 二、代码和数据集
 相关论文的代码以及数据集可以在[Paper With Code ](https://paperswithcode.com/)搜索获取，如果Paper With Code 中没有收录，可直接在GitHub输入论文关键字搜索相关代码
@@ -129,7 +136,7 @@
 
 ##### 2、因果表征学习
 
-##### 3、不确定性估计
+
 
 
 

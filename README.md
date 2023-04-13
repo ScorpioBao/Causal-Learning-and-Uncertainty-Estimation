@@ -1,5 +1,5 @@
-# Cusal-Learning-and-uncertainty-estimation
-该站点整理了”因果推理与不确定性估计“相关研究方向的论文、代码、博客等学习资源。
+# Cusal-Learning-and-Uncertainty-Estimation
+该站点整理了”因果推理、不确定性估计“相关研究方向的论文、代码、博客等学习资源。
 # 目录
 - [因果推理](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning)
 	- [因果效应评估（Causal Effect Estimation）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Effect%20Estmation))

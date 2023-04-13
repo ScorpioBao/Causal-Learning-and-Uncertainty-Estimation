@@ -5,9 +5,9 @@
 - [因果推理](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning)
 	- [因果效应评估（Causal Effect Estimation）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Effect%20Estmation))
 	- [因果发现（Causal Discovery）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Discovery)
-- [因果表征学习](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning)
-	- [分布外泛化（Out-of-Distribution Generalization）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Out-of-Distribution%20Generalization)
-	- [稳定学习（Stable Learning）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Stable%20Learning)
+- [因果表征学习](#2因果表征学习)
+	- [分布外泛化（Out-of-Distribution Generalization）](#1分布外泛化)
+	- [稳定学习（Stable Learning）](#2稳定学习)
 	- [消除偏差（Debias）](#3消除偏差)
 -  [不确定性估计](#3不确定性估计)
 	- [综述](#1综述)
@@ -31,10 +31,12 @@
 ### 1、 因果推理(相关论文可以通过目录中的链接访问)
 ### 2、 因果表征学习(相关论文可以通过目录中的链接访问)
 #### （1）分布外泛化
-*相关论文可以在[分布外泛化](](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Out-of-Distribution%20Generalization)文件夹下查看*
+*相关论文可以在[分布外泛化](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Out-of-Distribution%20Generalization)文件夹下查看*
 - 
 #### （2）稳定学习
+*相关论文可以在[稳定学习](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Stable%20Learning)文件夹下查看*
 #### （3）消除偏差
+
 ### 3、不确定性估计
 #### （1）综述
 - Gawlikowski, J., Tassi, C. R. N., Ali, M., Lee, J., Humt, M., Feng, J., ... & Zhu, X. X. (2021). A survey of uncertainty in deep neural networks. _arXiv preprint arXiv:2107.03342_.

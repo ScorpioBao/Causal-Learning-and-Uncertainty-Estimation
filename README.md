@@ -29,14 +29,35 @@
 
 # 一、论文
 ### 1、 因果推理(相关论文可以通过目录中的链接访问)
-### 2、 因果表征学习(相关论文可以通过目录中的链接访问)
-#### （1）分布外泛化
-*相关论文可以在[分布外泛化](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Out-of-Distribution%20Generalization)文件夹下查看*
-- 
-#### （2）稳定学习
-*相关论文可以在[稳定学习](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Stable%20Learning)文件夹下查看*
-#### （3）消除偏差
+### 2、 因果表征学习
+#### （1）综述
+- Schölkopf, B., Locatello, F., Bauer, S., Ke, N. R., Kalchbrenner, N., Goyal, A., & Bengio, Y. (2021). Toward causal representation learning. _Proceedings of the IEEE_, _109_(5), 612-634.（因果表征学习综述）
+- Lu, C., Wu, Y., Hernández-Lobato, J. M., & Schölkopf, B. (2021). Invariant causal representation learning for out-of-distribution generalization. In _International Conference on Learning Representations_.（不变因果表征学习）
 
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
+#### （2）分布外泛化
+*相关论文可以在[分布外泛化](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Out-of-Distribution%20Generalization)文件夹下查看*
+- Xu, R., Zhang, X., Shen, Z., Zhang, T., & Cui, P. (2022, June). A Theoretical Analysis on Independence-driven Importance Weighting for Covariate-shift Generalization. In _International Conference on Machine Learning_ (pp. 24803-24829). PMLR.（协变量偏移）
+- Liu, C., Sun, X., Wang, J., Tang, H., Li, T., Qin, T., ... & Liu, T. Y. (2021). Learning causal semantic representation for out-of-distribution prediction. _Advances in Neural Information Processing Systems_, _34_, 6155-6170.（因果语义表示学习）
+- Zhang, X., Xu, Z., Xu, R., Liu, J., Cui, P., Wan, W., ... & Li, C. (2022). Towards domain generalization in object detection. _arXiv preprint arXiv:2203.14387_.（目标检测中的域泛化）
+- Shen, Z., Liu, J., He, Y., Zhang, X., Xu, R., Yu, H., & Cui, P. (2021). Towards out-of-distribution generalization: A survey. _arXiv preprint arXiv:2108.13624_.（综述）
+- Li, X., Dai, Y., Ge, Y., Liu, J., Shan, Y., & Duan, L. Y. (2022). Uncertainty modeling for out-of-distribution generalization. _arXiv preprint arXiv:2202.03958_.（OODG不确定性建模）
+
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
+#### （3）稳定学习
+*相关论文可以在[稳定学习](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Stable%20Learning)文件夹下查看*
+- Zhang, X., Cui, P., Xu, R., Zhou, L., He, Y., & Shen, Z. (2021). Deep stable learning for out-of-distribution generalization. In _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (pp. 5372-5382).（StableNet）
+- Liu, J., Hu, Z., Cui, P., Li, B., & Shen, Z. (2021, July). Heterogeneous risk minimization. In _International Conference on Machine Learning_ (pp. 6804-6814). PMLR.（异质风险最小化）
+- Cui, P., & Athey, S. (2022). Stable learning establishes some common ground between causal inference and machine learning. _Nature Machine Intelligence_, _4_(2), 110-115.（稳定学习与因果推断和机器学习之间的共同点）
+
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
+#### （4）消除偏差
+- Wang, T., Zhou, C., Sun, Q., & Zhang, H. (2021). Causal attention for unbiased visual recognition. In _Proceedings of the IEEE/CVF International Conference on Computer Vision_ (pp. 3091-3100).（因果注意力）
+- Niu, Y., Tang, K., Zhang, H., Lu, Z., Hua, X. S., & Wen, J. R. (2021). Counterfactual vqa: A cause-effect look at language bias. In _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (pp. 12700-12710).（反事实VQA）
+- Yang, X., Zhang, H., & Cai, J. (2021). Deconfounded image captioning: A causal retrospect. _IEEE Transactions on Pattern Analysis and Machine Intelligence_.（去除混淆偏差）
+- Nam, J., Cha, H., Ahn, S., Lee, J., & Shin, J. (2020). Learning from failure: De-biasing classifier from biased classifier. _Advances in Neural Information Processing Systems_, _33_, 20673-20684.（从有偏分类器学习去偏分类器）
+
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
 ### 3、不确定性估计
 #### （1）综述
 - Gawlikowski, J., Tassi, C. R. N., Ali, M., Lee, J., Humt, M., Feng, J., ... & Zhu, X. X. (2021). A survey of uncertainty in deep neural networks. _arXiv preprint arXiv:2107.03342_.
@@ -90,6 +111,7 @@
 - Chen, L., Lou, Y., He, J., Bai, T., & Deng, M. (2022, June). Evidential neighborhood contrastive learning for universal domain adaptation. In _Proceedings of the AAAI Conference on Artificial Intelligence_ (Vol. 36, No. 6, pp. 6258-6267).（证据领域对比学习）
 - Qiao, F., & Peng, X. (2021). Uncertainty-guided model generalization to unseen domains. In _Proceedings of the IEEE/CVF conference on computer vision and pattern recognition_ (pp. 6790-6800).（不确定性指导的数据增广）
 - Zhao, L., Liu, T., Peng, X., & Metaxas, D. (2020). Maximum-entropy adversarial data augmentation for improved generalization and robustness. _Advances in Neural Information Processing Systems_, _33_, 14435-14447.（对抗数据增广-最大熵）
+- Li, X., Dai, Y., Ge, Y., Liu, J., Shan, Y., & Duan, L. Y. (2022). Uncertainty modeling for out-of-distribution generalization. _arXiv preprint arXiv:2202.03958_.（OODG的不确定性建模）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （5）多视图学习

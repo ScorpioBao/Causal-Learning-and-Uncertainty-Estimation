@@ -81,7 +81,7 @@
 - **Sensoy, M., Kaplan, L., & Kandemir, M. (2018). Evidential deep learning to quantify classification uncertainty. _Advances in neural information processing systems_, _31_.（证据分类）**
 - **Amini, A., Schwarting, W., Soleimany, A., & Rus, D. (2020). Deep evidential regression. _Advances in Neural Information Processing Systems_, _33_, 14927-14937.（证据回归）**
 - Sensoy, M., Kaplan, L., Cerutti, F., & Saleki, M. (2020, April). Uncertainty-aware deep classifiers using generative models. In _Proceedings of the AAAI Conference on Artificial Intelligence_ (Vol. 34, No. 04, pp. 5620-5627).（EDL作者的另一篇论文）
-- Malinin, A., & Gales, M. (2018). Predictive uncertainty estimation via prior networks. _Advances in neural information processing systems_, _31_.（同样使用狄利克雷分布建模不确定性的另一种方法）
+- Malinin, A., & Gales, M. (2018). Predictive uncertainty estimation via prior networks. _Advances in neural information processing systems_, _31_.（使用狄利克雷分布建模不确定性的另一种方法）
 - Ulmer, D. (2021). A survey on evidential deep learning for single-pass uncertainty estimation. _arXiv preprint arXiv:2110.03051_.（证据不确定性综述）
 - Zhao, X., Ou, Y., Kaplan, L., Chen, F., & Cho, J. H. (2019). Quantifying classification uncertainty using regularized evidential neural networks. _arXiv preprint arXiv:1910.06864_.（证据基础上添加正则化项）
 

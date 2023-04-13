@@ -1,7 +1,6 @@
 # Cusal-Learning-and-uncertainty-estimation
 该站点整理了”因果推理与不确定性估计“相关研究方向的论文、代码、博客等学习资源。
 # 目录
-#### 一、[论文](#一论文)
 - [因果推理](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning)
 	- [因果效应评估（Causal Effect Estimation）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Effect%20Estmation))
 	- [因果发现（Causal Discovery）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Learning/Causal%20Discovery)
@@ -22,10 +21,10 @@
 	- [分布外泛化](#4分布外泛化)
 	- [多视图学习](#5多视图学习)
 - [深度学习模型校准的相关工作](#5深度学习模型校准的相关工作)
-#### 二、[代码和数据集](#二代码和数据集)
-#### 三、[博客](#三博客)
-- [因果推理](#1因果推理)
-- [不确定性估计](#2不确定性估计)
+- [代码和数据集](#二代码和数据集)
+- [博客](#三博客)
+	- [因果推理](#1因果推理)
+	- [不确定性估计](#2不确定性估计)
 - [交流](#四交流)
 # 一、论文
 ### 1、 因果推理(相关论文可以通过目录中的链接访问)

@@ -131,6 +131,8 @@
 
 ## 二、代码和数据集
 相关论文的代码以及数据集可以在[Paper With Code ](https://paperswithcode.com/)搜索获取，如果Paper With Code 中没有收录，可直接在GitHub输入论文关键字搜索相关代码
+
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
 ## 三、博客
 ##### 1、因果推理
 - [e-CARE: 可解释的因果推理评测 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650805534&idx=1&sn=ecf1c78e642f46daa10c1217c3bd320d&chksm=8cb880f5bbcf09e3d060f3b96fb24c42ee60c52a1b10914e3af637e8f07c9c88c5ca6f02d17a#rd)
@@ -143,7 +145,7 @@
 
 
 ##### 2、不确定性估计
-- [ What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? ](https://blog.csdn.net/weixin_39779106/article/details/78968982#1%E5%B0%86%E5%BC%82%E6%96%B9%E5%B7%AE%E5%81%B6%E7%84%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%92%8C%E8%AE%A4%E7%9F%A5%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9B%B8%E7%BB%93%E5%90%88](https://blog.csdn.net/weixin_39779106/article/details/78968982#1%E5%B0%86%E5%BC%82%E6%96%B9%E5%B7%AE%E5%81%B6%E7%84%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%92%8C%E8%AE%A4%E7%9F%A5%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9B%B8%E7%BB%93%E5%90%88)
+- [(184条消息) What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? 计算机视觉用于贝叶斯深度学习的不确定性_Xieyuanli_Chen的博客-CSDN博客](https://blog.csdn.net/weixin_39779106/article/details/78968982#1%E5%B0%86%E5%BC%82%E6%96%B9%E5%B7%AE%E5%81%B6%E7%84%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%92%8C%E8%AE%A4%E7%9F%A5%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9B%B8%E7%BB%93%E5%90%88%5D(https://blog.csdn.net/weixin_39779106/article/details/78968982#1%E5%B0%86%E5%BC%82%E6%96%B9%E5%B7%AE%E5%81%B6%E7%84%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%92%8C%E8%AE%A4%E7%9F%A5%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9B%B8%E7%BB%93%E5%90%88)
 - [Bayesian inference problem, MCMC and variational inference | by Joseph Rocca | Towards Data Science](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
 - [Uncertainty Estimation in CV - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/166617220)
 - [What my deep model doesn't know... | Yarin Gal - Blog | Oxford Machine Learning](http://www.cs.ox.ac.uk/people/yarin.gal/website/blog_3d801aa532c1ce.html)

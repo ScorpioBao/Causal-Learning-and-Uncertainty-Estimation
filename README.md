@@ -134,7 +134,7 @@
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 ## 三、博客
-##### 1、因果推理
+### 1、因果推理
 - [e-CARE: 可解释的因果推理评测 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650805534&idx=1&sn=ecf1c78e642f46daa10c1217c3bd320d&chksm=8cb880f5bbcf09e3d060f3b96fb24c42ee60c52a1b10914e3af637e8f07c9c88c5ca6f02d17a#rd)
 - [【Valse - 崔鹏】Out-of-Distribution 分布外泛化 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/419346109)
 - [崔鹏团队：万字长文梳理「稳定学习」全景图 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/535602186)
@@ -142,9 +142,8 @@
 -  [因果表征学习最新综述：连接因果科学和机器学习的桥梁 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/355009051)
 - [因果推断：因果表征学习的CV落地 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/400043237)
 
-
-
-##### 2、不确定性估计
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
+### 2、不确定性估计
 - [(184条消息) What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? 计算机视觉用于贝叶斯深度学习的不确定性_Xieyuanli_Chen的博客-CSDN博客](https://blog.csdn.net/weixin_39779106/article/details/78968982#1%E5%B0%86%E5%BC%82%E6%96%B9%E5%B7%AE%E5%81%B6%E7%84%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%92%8C%E8%AE%A4%E7%9F%A5%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9B%B8%E7%BB%93%E5%90%88%5D(https://blog.csdn.net/weixin_39779106/article/details/78968982#1%E5%B0%86%E5%BC%82%E6%96%B9%E5%B7%AE%E5%81%B6%E7%84%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%92%8C%E8%AE%A4%E7%9F%A5%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9B%B8%E7%BB%93%E5%90%88))
 - [Bayesian inference problem, MCMC and variational inference | by Joseph Rocca | Towards Data Science](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
 - [Uncertainty Estimation in CV - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/166617220)

@@ -9,14 +9,16 @@
 	- [分布外泛化（Out-of-Distribution Generalization）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Out-of-Distribution%20Generalization)
 	- [稳定学习（Stable Learning）](https://github.com/ScorpioBao/Causal-Learning-and-Uncertainty-Estimation/tree/master/Causal%20Representation%20Learning/Stable%20Learning)
 -  [不确定性估计](#3不确定性估计)
-	- 贝叶斯方法（Bayesian）
-	- 集成方法（Ensemble）
-	- 证据深度学习（Evidential Deep Learning)
+	- [综述](#1综述)
+	- [贝叶斯方法（Bayesian）](#2贝叶斯方法)
+	- [集成方法（Ensemble）](#3集成方法)
+	- [证据深度学习（Evidential Deep Learning)](#4证据深度学习)
 - [ 不确定性估计在不同领域的应用](#4不确定性估计在不同领域的应用)
 	- [分割](#1分割)
-	- [开集识别](#2开集识别)
-	- [域自适应](#3域自适应)
-	- [多视图学习](#4多视图学习)
+	- [目标检测](#2目标检测)
+	- [开集识别](#3开集识别)
+	- [分布外泛化](#4分布外泛化)
+	- [多视图学习](#5多视图学习)
 - [深度学习模型校准的相关工作]()
 - [代码和数据集](#二代码和数据集)
 - [博客](#三博客)
@@ -30,7 +32,6 @@
 ### 3、不确定性估计
 #### （1）综述
 - Gawlikowski, J., Tassi, C. R. N., Ali, M., Lee, J., Humt, M., Feng, J., ... & Zhu, X. X. (2021). A survey of uncertainty in deep neural networks. _arXiv preprint arXiv:2107.03342_.
-- Zhou, T., Han, T., & Droguett, E. L. (2022). Towards trustworthy machine fault diagnosis: A probabilistic Bayesian deep learning framework. _Reliability Engineering & System Safety_, _224_, 108525.
 - Abdar, M., Pourpanah, F., Hussain, S., Rezazadegan, D., Liu, L., Ghavamzadeh, M., ... & Nahavandi, S. (2021). A review of uncertainty quantification in deep learning: Techniques, applications and challenges. _Information Fusion_, _76_, 243-297.
 - Uncertainty in Deep Learning（Gal博士论文）
 - He, W., & Jiang, Z. (2023). A Survey on Uncertainty Quantification Methods for Deep Neural Networks: An Uncertainty Source Perspective. _arXiv preprint arXiv:2302.13425_.
@@ -39,8 +40,7 @@
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （2）贝叶斯方法：
 - Gal, Y., & Ghahramani, Z. (2016, June). Dropout as a bayesian approximation: Representing model uncertainty in deep learning. In _international conference on machine learning_ (pp. 1050-1059). PMLR.（将Dropout看做贝叶斯近似的经典论文）
-- Harakeh, A., Smart, M., & Waslander, S. L. (2020, May). Bayesod: A bayesian approach for uncertainty estimation in deep object detectors. In _2020 IEEE International Conference on Robotics and Automation (ICRA)_ (pp. 87-93). IEEE.（目标检测中的贝叶斯不确定性估计）
-- Kendall, A., & Gal, Y. (2017). What uncertainties do we need in bayesian deep learning for computer vision?. _Advances in neural information processing systems_, _30_.（不确定性估计必读论文，将不确定性分为数据不确定性以及模型不确定性，并介绍了在分类和回归中不确定性估计的建模方法）
+- **Kendall, A., & Gal, Y. (2017). What uncertainties do we need in bayesian deep learning for computer vision?. _Advances in neural information processing systems_, _30_.（不确定性估计必读论文，将不确定性分为数据不确定性以及模型不确定性，并介绍了在分类和回归中不确定性估计的建模方法）**
 - Louizos, C., & Welling, M. (2017, July). Multiplicative normalizing flows for variational bayesian neural networks. In _International Conference on Machine Learning_ (pp. 2218-2227). PMLR.（变分贝叶斯神经网络，EDL论文中的对比方法）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
@@ -49,9 +49,10 @@
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （4）证据深度学习
-- Sensoy, M., Kaplan, L., & Kandemir, M. (2018). Evidential deep learning to quantify classification uncertainty. _Advances in neural information processing systems_, _31_.（证据分类）
-- Amini, A., Schwarting, W., Soleimany, A., & Rus, D. (2020). Deep evidential regression. _Advances in Neural Information Processing Systems_, _33_, 14927-14937.（证据回归）
-- Ulmer, D. (2021). A survey on evidential deep learning for single-pass uncertainty estimation. _arXiv preprint arXiv:2110.03051_.（综述）
+- **Sensoy, M., Kaplan, L., & Kandemir, M. (2018). Evidential deep learning to quantify classification uncertainty. _Advances in neural information processing systems_, _31_.（证据分类）
+- **Amini, A., Schwarting, W., Soleimany, A., & Rus, D. (2020). Deep evidential regression. _Advances in Neural Information Processing Systems_, _33_, 14927-14937.（证据回归）
+- Ulmer, D. (2021). A survey on evidential deep learning for single-pass uncertainty estimation. _arXiv preprint arXiv:2110.03051_.（证据不确定性综述）
+- Zhao, X., Ou, Y., Kaplan, L., Chen, F., & Cho, J. H. (2019). Quantifying classification uncertainty using regularized evidential neural networks. _arXiv preprint arXiv:1910.06864_.（证据基础上添加正则化项）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 ### 4、不确定性估计在不同领域的应用
@@ -59,20 +60,34 @@
 - Kwon, Y., Won, J. H., Kim, B. J., & Paik, M. C. (2020). Uncertainty quantification using Bayesian neural networks in classification: Application to biomedical image segmentation. _Computational Statistics & Data Analysis_, _142_, 106816.（贝叶斯不确定性）
 - Li, H., Nan, Y., Del Ser, J., & Yang, G. (2022). Region-based evidential deep learning to quantify uncertainty and improve robustness of brain tumor segmentation. _Neural Computing and Applications_, 1-15.（证据不确定性）
 - Zou, K., Yuan, X., Shen, X., Chen, Y., Wang, M., Goh, R. S. M., ... & Fu, H. (2023). EvidenceCap: Towards trustworthy medical image segmentation via evidential identity cap. _arXiv preprint arXiv:2301.00349_.（证据不确定性）
+- Zhou, X., Yue, X., Xu, Z., Denoeux, T., & Chen, Y. (2021, December). Deep neural networks with prior evidence for bladder cancer staging. In _2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (pp. 1221-1226). IEEE.（证据医学影像分割）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
-#### （2）开集识别
+#### （2）目标检测
+- Harakeh, A., Smart, M., & Waslander, S. L. (2020, May). Bayesod: A bayesian approach for uncertainty estimation in deep object detectors. In _2020 IEEE International Conference on Robotics and Automation (ICRA)_ (pp. 87-93). IEEE.（目标检测中的贝叶斯不确定性估计）
+- Feng, D., Harakeh, A., Waslander, S. L., & Dietmayer, K. (2021). A review and comparative study on probabilistic object detection in autonomous driving. _IEEE Transactions on Intelligent Transportation Systems_, _23_(8), 9961-9980.（自动驾驶中的概率目标检测）
+- Hang, Q., Li, Z., Dong, Y., & Yue, X. (2022, November). Uncertainty-Aware Deep Open-Set Object Detection. In _Rough Sets: International Joint Conference, IJCRS 2022, Suzhou, China, November 11–14, 2022, Proceedings_ (pp. 161-175). Cham: Springer Nature Switzerland.（证据目标检测）
+- - Miller, D. (2021). _Epistemic uncertainty estimation for object detection in open-set conditions_ (Doctoral dissertation, Queensland University of Technology).（开集目标检测）
+
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
+#### （3）开集识别
 - Bao, W., Yu, Q., & Kong, Y. (2021). Evidential deep learning for open set action recognition. In _Proceedings of the IEEE/CVF International Conference on Computer Vision_ (pp. 13349-13358).（开集识别）
 - Corbière, C., Lafon, M., Thome, N., Cord, M., & Pérez, P. (2021, September). Beyond First-Order Uncertainty Estimation with Evidential Models for Open-World Recognition. In _ICML 2021 Workshop on Uncertainty and Robustness in Deep Learning_.（正则化项）
+- Corbière, C., Lafon, M., Thome, N., Cord, M., & Pérez, P. (2021, September). Beyond First-Order Uncertainty Estimation with Evidential Models for Open-World Recognition. In _ICML 2021 Workshop on Uncertainty and Robustness in Deep Learning_.（证据用于开放世界识别）
+- Mundt, M., Pliushch, I., Majumder, S., & Ramesh, V. (2019). Open set recognition through deep neural network uncertainty: Does out-of-distribution detection require generative classifiers?. In _Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops_.（OOD检测）
+- - Zhou, T., Han, T., & Droguett, E. L. (2022). Towards trustworthy machine fault diagnosis: A probabilistic Bayesian deep learning framework. _Reliability Engineering & System Safety_, _224_, 108525.（贝叶斯故障诊断）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
-#### （3）域自适应
-- Chen, L., Lou, Y., He, J., Bai, T., & Deng, M. (2022, June). Evidential neighborhood contrastive learning for universal domain adaptation. In _Proceedings of the AAAI Conference on Artificial Intelligence_ (Vol. 36, No. 6, pp. 6258-6267).
+#### （4）分布外泛化
+- Chen, L., Lou, Y., He, J., Bai, T., & Deng, M. (2022, June). Evidential neighborhood contrastive learning for universal domain adaptation. In _Proceedings of the AAAI Conference on Artificial Intelligence_ (Vol. 36, No. 6, pp. 6258-6267).（证据领域对比学习）
+- Qiao, F., & Peng, X. (2021). Uncertainty-guided model generalization to unseen domains. In _Proceedings of the IEEE/CVF conference on computer vision and pattern recognition_ (pp. 6790-6800).（不确定性指导的数据增广）
+- Zhao, L., Liu, T., Peng, X., & Metaxas, D. (2020). Maximum-entropy adversarial data augmentation for improved generalization and robustness. _Advances in Neural Information Processing Systems_, _33_, 14435-14447.（对抗数据增广-最大熵）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
-#### （4）多视图学习
+#### （5）多视图学习
 - Han, Z., Zhang, C., Fu, H., & Zhou, J. T. (2022). Trusted multi-view classification with dynamic evidential fusion. _IEEE transactions on pattern analysis and machine intelligence_.（证据多视图分类）
 - Ma, H., Han, Z., Zhang, C., Fu, H., Zhou, J. T., & Hu, Q. (2021). Trustworthy multimodal regression with mixture of normal-inverse gamma distributions. _Advances in Neural Information Processing Systems_, _34_, 6881-6893.（证据多模态回归）
+- Geng, Y., Han, Z., Zhang, C., & Hu, Q. (2021, May). Uncertainty-aware multi-view representation learning. In _Proceedings of the AAAI Conference on Artificial Intelligence_ (Vol. 35, No. 9, pp. 7545-7553).（多视图回归-数据不确定性建模）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 

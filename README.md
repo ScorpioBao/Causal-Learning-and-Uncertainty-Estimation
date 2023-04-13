@@ -49,8 +49,8 @@
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （4）证据深度学习
-- **Sensoy, M., Kaplan, L., & Kandemir, M. (2018). Evidential deep learning to quantify classification uncertainty. _Advances in neural information processing systems_, _31_.（证据分类）
-- **Amini, A., Schwarting, W., Soleimany, A., & Rus, D. (2020). Deep evidential regression. _Advances in Neural Information Processing Systems_, _33_, 14927-14937.（证据回归）
+- **Sensoy, M., Kaplan, L., & Kandemir, M. (2018). Evidential deep learning to quantify classification uncertainty. _Advances in neural information processing systems_, _31_.（证据分类）**
+- **Amini, A., Schwarting, W., Soleimany, A., & Rus, D. (2020). Deep evidential regression. _Advances in Neural Information Processing Systems_, _33_, 14927-14937.（证据回归）**
 - Ulmer, D. (2021). A survey on evidential deep learning for single-pass uncertainty estimation. _arXiv preprint arXiv:2110.03051_.（证据不确定性综述）
 - Zhao, X., Ou, Y., Kaplan, L., Chen, F., & Cho, J. H. (2019). Quantifying classification uncertainty using regularized evidential neural networks. _arXiv preprint arXiv:1910.06864_.（证据基础上添加正则化项）
 

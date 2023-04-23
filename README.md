@@ -99,6 +99,7 @@
 - Hang, Q., Li, Z., Dong, Y., & Yue, X. (2022, November). Uncertainty-Aware Deep Open-Set Object Detection. In _Rough Sets: International Joint Conference, IJCRS 2022, Suzhou, China, November 11–14, 2022, Proceedings_ (pp. 161-175). Cham: Springer Nature Switzerland.（证据目标检测）
 - Miller, D. (2021). _Epistemic uncertainty estimation for object detection in open-set conditions_ (Doctoral dissertation, Queensland University of Technology).（开集目标检测）
 - Gasperini, S., Haug, J., Mahani, M. A. N., Marcos-Ramiro, A., Navab, N., Busam, B., & Tombari, F. (2021). CertainNet: Sampling-free uncertainty estimation for object detection. _IEEE Robotics and Automation Letters_, _7_(2), 698-705.（基于Centernet的不确定度量）
+- Nallapareddy, M. R., Sirohi, K., Drews-Jr, P. L., Burgard, W., Cheng, C. H., & Valada, A. (2023). EvCenterNet: Uncertainty Estimation for Object Detection using Evidential Learning. _arXiv preprint arXiv:2303.03037_.(证据深度学习目标检测，基于Centernet)
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （3）开集识别

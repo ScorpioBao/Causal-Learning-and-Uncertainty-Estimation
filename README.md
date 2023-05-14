@@ -100,6 +100,7 @@
 - Miller, D. (2021). _Epistemic uncertainty estimation for object detection in open-set conditions_ (Doctoral dissertation, Queensland University of Technology).（开集目标检测）
 - Gasperini, S., Haug, J., Mahani, M. A. N., Marcos-Ramiro, A., Navab, N., Busam, B., & Tombari, F. (2021). CertainNet: Sampling-free uncertainty estimation for object detection. _IEEE Robotics and Automation Letters_, _7_(2), 698-705.（基于Centernet的不确定度量）
 - Nallapareddy, M. R., Sirohi, K., Drews-Jr, P. L., Burgard, W., Cheng, C. H., & Valada, A. (2023). EvCenterNet: Uncertainty Estimation for Object Detection using Evidential Learning. _arXiv preprint arXiv:2303.03037_.(证据深度学习目标检测，基于Centernet)
+- He, Y., Zhu, C., Wang, J., Savvides, M., & Zhang, X. (2019). Bounding box regression with uncertainty for accurate object detection. In _Proceedings of the ieee/cvf conference on computer vision and pattern recognition_ (pp. 2888-2897).（回归不确定性目标检测）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 #### （3）开集识别

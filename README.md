@@ -122,6 +122,7 @@
 - Han, Z., Zhang, C., Fu, H., & Zhou, J. T. (2022). Trusted multi-view classification with dynamic evidential fusion. _IEEE transactions on pattern analysis and machine intelligence_.（证据多视图分类）
 - Ma, H., Han, Z., Zhang, C., Fu, H., Zhou, J. T., & Hu, Q. (2021). Trustworthy multimodal regression with mixture of normal-inverse gamma distributions. _Advances in Neural Information Processing Systems_, _34_, 6881-6893.（证据多模态回归）
 - Geng, Y., Han, Z., Zhang, C., & Hu, Q. (2021, May). Uncertainty-aware multi-view representation learning. In _Proceedings of the AAAI Conference on Artificial Intelligence_ (Vol. 35, No. 9, pp. 7545-7553).（多视图回归-数据不确定性建模）
+- Zhang, Q., Wu, H., Zhang, C., Hu, Q., Fu, H., Zhou, J. T., & Peng, X. (2023). Provable Dynamic Fusion for Low-Quality Multimodal Data. _arXiv preprint arXiv:2306.02050_.（基于能量函数的不确定性估计）
 
 👆 [<b>BACK to Table of Contents</b> -->](#目录)
 ### 5、深度学习模型校准的相关工作

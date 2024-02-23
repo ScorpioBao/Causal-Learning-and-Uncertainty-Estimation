@@ -28,8 +28,7 @@
 - [交流](#四交流)
 # 一、论文
 ### 1、 因果推理(相关论文可以通过目录中的链接访问)
-- ##### 计算机视觉中的应用
-- [MaheepChaudhary/Causation-inComputerVision：该存储库包含有关因果关系的论文列表，以及如何使用相关技术来进一步增强深度学习时代的计算机视觉解决方案。 (github.com)](https://github.com/MaheepChaudhary/Causation-inComputerVision)
+- ##### 计算机视觉中的应用- [MaheepChaudhary/Causation-inComputerVision：该存储库包含有关因果关系的论文列表，以及如何使用相关技术来进一步增强深度学习时代的计算机视觉解决方案。 (github.com)](https://github.com/MaheepChaudhary/Causation-inComputerVision)
 ### 2、 因果表征学习
 #### （1）综述
 - Schölkopf, B., Locatello, F., Bauer, S., Ke, N. R., Kalchbrenner, N., Goyal, A., & Bengio, Y. (2021). Toward causal representation learning. _Proceedings of the IEEE_, _109_(5), 612-634.（因果表征学习综述）
